@@ -1,0 +1,1 @@
+ <script type="text/javascript">$(document).ready(function() {$('#calendar').fullCalendar({header: { center: 'title', left: 'prev, next', right: ''},selectable: false,selectHelper: true,editable: false,events: [{title: 'tache1', start: new Date(2015, 04, 10),end: new Date(2015, 04, 25)},{title: 'tache2',start: new Date(2015, 04, 25),end: new Date(2015, 04, 20)}],});});</script>
